@@ -1,0 +1,5 @@
+{
+  "javascript.validation": false,
+  "standard.enabled": true,
+  "standard.autoFixOnSave": true
+}
